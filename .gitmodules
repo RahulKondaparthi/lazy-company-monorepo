@@ -1,0 +1,6 @@
+[submodule "packages/ballan_monorep"]
+	path = packages/ballan_monorep
+	url = https://github.com/RahulKondaparthi/ballan_monorep.git
+[submodule "packages/mono-repo-deploy"]
+	path = packages/mono-repo-deploy
+	url = https://github.com/RahulKondaparthi/mono-repo-deploy.git
